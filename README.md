@@ -26,7 +26,7 @@ Please refer to the product pages linked below for more information about the se
         <td style="test-align : center"><a href="https://www.infineon.com/part/DPS368">XENSIV™ DPS368/DPS310</a></td>
         <td style="test-align : center"><a href="https://www.infineon.com/evaluation-board/CY8CKIT-062S2-AI">PSOC™ 6 Artificial Intelligence Evaluation Kit</a></td>
         <td style="test-align : center"><a href="https://www.infineon.com/evaluation-board/KIT-DPS368-2GO">DPS368/DPS310 Kit 2Go</a></td>
-        <td style="test-align : center"><a href="https://www.infineon.com/evaluation-board/KIT-DPS368-2GO">DPS368/DPS310 Shield2Go (end of life)</a></td>
+        <td style="test-align : center"><a href="https://www.infineon.com/evaluation-board/S2GO-PRESSURE-DPS368">DPS368/DPS310 Shield2Go (end of life)</a></td>
     </tr>
 </table>
 
@@ -54,9 +54,9 @@ mip.install('github:infineon/micropython-xensiv-dps3xx')
 
 #### Manual Installation
 - Download this file:
-    - [DPS3xx.py](https://raw.githubusercontent.com/Infineon/micropython-xensiv-dps3xx/refs/heads/main/micropython-xensiv-dps3xx/DPS3xx.py)
+    - [Dps3xx.py](https://raw.githubusercontent.com/Infineon/micropython-xensiv-dps3xx/refs/heads/main/micropython-xensiv-dps3xx/Dps3xx.py)
 
-And drag-and-drop them onto your MicroPython device using e.g. [Thonny IDE](https://thonny.org/) or any other suitable tool.
+And drag-and-drop it onto your MicroPython device using e.g. [Thonny IDE](https://thonny.org/) or any other suitable tool.
 
 ### Usage
 
